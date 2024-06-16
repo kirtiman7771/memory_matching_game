@@ -13,7 +13,7 @@ Welcome to the Memory Matching Game! This is a simple and fun game where the goa
 - [License](#license)
 
 ## Demo
-You can play the game by following this [link](#) (add your GitHub Pages link or any other live demo link here).
+You can play the game by following this [https://kirtiman7771.github.io/memory_matching_game/].
 
 ## Features
 - Multiple game board sizes: 3x4, 4x4, 4x5, 5x6, 6x6
